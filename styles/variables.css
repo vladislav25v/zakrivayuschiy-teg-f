@@ -1,1 +1,34 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --font-decorative: "PressStart2P", "Courier New", Courier, monospace;
+  --font-main: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-regular-weight: 400;
+  --font-title-weight: 700;
+
+  --content-color: #000;
+  --content-transparent-color: rgba(0, 0, 0, 0.5);
+  --content-background: #fff;
+  --content-transparent-background: rgba(255, 255, 255, 0.5);
+
+  --like-icon-animation: fill 0.3s linear;
+  --unlike-icon-animation: fill 0.1s linear;
+  --contour-color: #000;
+  --animation-fill-color: #f00;
+  --health-color: #0018ff;
+  --picture-shadow: #f8ec0b;
+
+  --page-background: repeating-linear-gradient(
+      rgb(211 211 211) 0,
+      rgb(211 211 211) 2px,
+      rgb(211 211 211 / 0) 2px,
+      rgba(211 211 211 / 0) 4px
+    ),
+    repeating-linear-gradient(
+      to right,
+      rgb(211 211 211) 0,
+      rgb(211 211 211) 2px,
+      rgb(211 211 211 / 0) 2px,
+      rgba(211 211 211 / 0) 4px
+    ),
+    repeating-linear-gradient(rgb(231 231 231) 0.01%, rgb(26 26 26) 100%);
+}

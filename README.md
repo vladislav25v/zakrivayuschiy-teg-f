@@ -1,1 +1,2 @@
-В этой папке будут храниться изображения для статей, а токже фавиконы и иконка для смартфона
+https://github.com/vladislav25v/zakrivayuschiy-teg-f
+https://vladislav25v.github.io/zakrivayuschiy-teg-f/

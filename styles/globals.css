@@ -12,6 +12,7 @@ img {
 body {
   margin: 0 auto;
   overflow-wrap: break-word;
+  max-width: 100dvw;
 }
 
 h1,
